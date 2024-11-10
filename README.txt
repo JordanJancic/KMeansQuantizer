@@ -12,12 +12,6 @@ Features
 - Elbow Method Visualization: Plots inertia values against cluster sizes to evaluate optimal k.
 - Task Comparison: Uses quantization from one image to transform another.
 
-Screenshots
------------
-- **Original Image**: ./screenshots/original_image.png
-- **Quantized Image (K=10)**: ./screenshots/quantized_image_k10.png
-- **Inertia Plot**: ./screenshots/inertia_plot.png
-
 How It Works
 ------------
 1. K-Means Clustering
@@ -42,7 +36,7 @@ Dependencies
 Setup
 -----
 1. Clone the repository:
-   git clone https://github.com/your-username/image-quantization.git
+   git clone https://github.com/JordanJancic//KMeansQuantizer
 
 2. Install dependencies:
    pip install -r requirements.txt
