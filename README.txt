@@ -36,7 +36,7 @@ Dependencies
 Setup
 -----
 1. Clone the repository:
-   git clone https://github.com/JordanJancic//KMeansQuantizer
+   git clone https://github.com/JordanJancic/KMeansQuantizer
 
 2. Install dependencies:
    pip install -r requirements.txt
